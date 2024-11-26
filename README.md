@@ -69,4 +69,3 @@ Pixela is a tool for tracking various habits in the form of graphs. This script 
 
 - Pixela provides additional options for tracking different types of data, changing graph styles, and setting up multiple graphs. Refer to the [Pixela API documentation](https://docs.pixe.la/) for advanced usage.
 - Make sure to keep your token secure, as it is used for authentication.
-
