@@ -1,4 +1,4 @@
-# Pixela Habit Tracking with Python
+# Pixela Habit Tracking with Python 🏋️
 
 This Python script integrates with the [Pixela API](https://pixe.la/) to help you track your daily habits or metrics, such as running distances. Using the Pixela API, this project allows you to create an account, set up a graph, and log your progress over time.
 
