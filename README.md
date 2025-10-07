@@ -72,5 +72,5 @@ Pixela is a tool for tracking various habits in the form of graphs. This script 
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is created for educational purpose.
 
